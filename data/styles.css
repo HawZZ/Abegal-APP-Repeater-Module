@@ -79,6 +79,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -102,6 +106,22 @@
   color:#000000;
 }
 .box_2 {
+}
+._次按钮（动作列表） {
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:center;
+}
+._退出按钮（动作列表） {
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  color:#FF3300;
+  text-align:center;
 }
 ._形状 {
 }
